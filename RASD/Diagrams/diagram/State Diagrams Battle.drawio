@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2023-12-21T16:03:08.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="oVo6oQki6FQylG7lPf6l" version="22.1.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1106" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-0" value="Submission Expired&amp;nbsp;&lt;br&gt;and Final Rating Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-1" value="Subscribing Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-2" value="Batttle Phase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rpWPUdtOJ1ipmeYa6l69-6" target="rpWPUdtOJ1ipmeYa6l69-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-12" value="Students forming teams" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpWPUdtOJ1ipmeYa6l69-7">
+          <mxGeometry x="-0.3325" y="1" relative="1" as="geometry">
+            <mxPoint x="23" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="565" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-8" value="Bttle Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="470" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rpWPUdtOJ1ipmeYa6l69-1" target="rpWPUdtOJ1ipmeYa6l69-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="580" as="sourcePoint" />
+            <mxPoint x="440" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-13" value="Each team subscribes battles" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpWPUdtOJ1ipmeYa6l69-9">
+          <mxGeometry x="-0.095" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rpWPUdtOJ1ipmeYa6l69-2" target="rpWPUdtOJ1ipmeYa6l69-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="595" as="sourcePoint" />
+            <mxPoint x="470" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpWPUdtOJ1ipmeYa6l69-14" value="Each team works on code kata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpWPUdtOJ1ipmeYa6l69-10">
+          <mxGeometry x="-0.1039" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
