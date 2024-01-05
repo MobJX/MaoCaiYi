@@ -1,0 +1,336 @@
+<mxfile host="Electron" modified="2023-12-28T17:19:23.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="7sMGAGRD_UCdrlPfV5un" version="22.1.2" type="device">
+  <diagram name="Page-1" id="GMF52KimchwiLMV-RZ82">
+    <mxGraphModel dx="1446" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="1510" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-2" value="CKB Web App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="140" y="70" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-2">
+          <mxGeometry x="45" y="220" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-3" value="Subscribe Battle By join Existed Team" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="10" y="10" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-4" value="Web Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="360" y="70" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-4">
+          <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-6" value="Dispatcher" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="610" y="70" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-6">
+          <mxGeometry x="45" y="100" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-8" value="Team Manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="820" y="70" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-8">
+          <mxGeometry x="45" y="110" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-8">
+          <mxGeometry x="45" y="290" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-10" value="&amp;nbsp;DBMS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="1370" y="70" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-10">
+          <mxGeometry x="45" y="130" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-12" value="Model" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="1100" y="70" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-12">
+          <mxGeometry x="45" y="120" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-12">
+          <mxGeometry x="45" y="230" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-76" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-12">
+          <mxGeometry x="45" y="310" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.66666666666652" y="170" as="sourcePoint" />
+            <mxPoint x="395" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;1:searchTeam(team_id,tournament_id)&lt;/font&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-14">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1" source="SzFUHrx2OmUzOLYhAMGF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.99666666666656" y="180" as="sourcePoint" />
+            <mxPoint x="635.33" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-17" value="2:searchTeam(team_id,tournament_id)&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-16">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659.9966666666666" y="190" as="sourcePoint" />
+            <mxPoint x="865.3299999999999" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-19" value="3:searchTeam(team_id,tournament_id)&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-18">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1" target="SzFUHrx2OmUzOLYhAMGF-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="879.9966666666664" y="200" as="sourcePoint" />
+            <mxPoint x="1085.33" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-21" value="4:searchTeam(team_id,tournament_id)&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-20">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1159.9966666666664" y="210" as="sourcePoint" />
+            <mxPoint x="1410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-23" value="5:searchTeam(,team_id,tournament_id)&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-22">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-24" value="6:teamInfot" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="-0.0062" width="160" relative="1" as="geometry">
+            <mxPoint x="1400" y="240" as="sourcePoint" />
+            <mxPoint x="1170.0004347826084" y="239.99999999999977" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-25" value="7:teamInfo" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1135" y="240" as="sourcePoint" />
+            <mxPoint x="905.0004347826084" y="239.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-26" value="8:teaminfo" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="870" y="240" as="sourcePoint" />
+            <mxPoint x="670" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-27" value="9:teamInfot" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="240" as="sourcePoint" />
+            <mxPoint x="420.0004347826084" y="239.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-28" value="10: teamInfot" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="sourcePoint" />
+            <mxPoint x="200.0004347826084" y="239.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.66666666666652" y="290" as="sourcePoint" />
+            <mxPoint x="405" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-30" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;11:updateTeam(team_id, battle_id ,student_id)&lt;/font&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-29">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.99666666666656" y="300" as="sourcePoint" />
+            <mxPoint x="625.33" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-32" value="12:updateTeam(team_id, battle_id ,student_id)&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-31">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669.9966666666664" y="310" as="sourcePoint" />
+            <mxPoint x="860" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-34" value="13:updateTeam(team_id, battle_id ,student_id)&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-33">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1" source="SzFUHrx2OmUzOLYhAMGF-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="879.9966666666664" y="310" as="sourcePoint" />
+            <mxPoint x="1139.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-36" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;14:checkTeamAvailability(battle_id,team_id)&lt;/font&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-35">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1149.9966666666664" y="310" as="sourcePoint" />
+            <mxPoint x="1409.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-38" value="&lt;font size=&quot;1&quot;&gt;15:checkTeamAvailability(battle_id,team_id)&lt;/font&gt;&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-37">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-40" value="17:&quot;OK&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1120" y="330" as="sourcePoint" />
+            <mxPoint x="890.0004347826084" y="329.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-46" value="" style="swimlane;startSize=0;" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-1">
+          <mxGeometry x="50" y="220" width="1440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-50" value="" style="swimlane;startSize=0;" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-46">
+          <mxGeometry x="30" y="100" width="1390" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-39" value="16:&quot;OK&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry x="0.0021" width="160" relative="1" as="geometry">
+            <mxPoint x="1320" y="10" as="sourcePoint" />
+            <mxPoint x="1090.0004347826084" y="9.999999999999773" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50" target="SzFUHrx2OmUzOLYhAMGF-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="794.9966666666664" y="49.389999999999986" as="sourcePoint" />
+            <mxPoint x="985" y="49.389999999999986" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-53" value="18:updateTeam(team_id, battle_id ,student_id)&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-52">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50" target="SzFUHrx2OmUzOLYhAMGF-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1089.9966666666664" y="50" as="sourcePoint" />
+            <mxPoint x="1280" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-55" value="19:updateTeam(team_id, battle_id ,student_id)&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SzFUHrx2OmUzOLYhAMGF-54">
+          <mxGeometry x="-0.1981" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-43" value="20:&quot;OK&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1339.5" y="89.99999999999989" as="sourcePoint" />
+            <mxPoint x="1069.7592592592596" y="89.99999999999989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-56" value="21:&quot;OK&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1059.74" y="89.99999999999989" as="sourcePoint" />
+            <mxPoint x="789.9992592592596" y="89.99999999999989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-58" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry x="1330" y="-30" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry x="580" y="-10" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry x="320" y="-20" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-70" value="22:&quot;OK&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="799.74" y="89.99999999999989" as="sourcePoint" />
+            <mxPoint x="590" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-71" value="23:&quot;OK&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="559.74" y="89.99999999999989" as="sourcePoint" />
+            <mxPoint x="350" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-72" value="24:&quot;OK&quot;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="319.74" y="89.99999999999989" as="sourcePoint" />
+            <mxPoint x="110" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-74" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry x="20" y="130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-81" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry x="1340" y="40" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-82" value="25:errorMessage" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1340" y="149.9999999999999" as="sourcePoint" />
+            <mxPoint x="1070.2592592592596" y="149.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-83" value="26:errorMessage" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1069.74" y="159.25999999999988" as="sourcePoint" />
+            <mxPoint x="799.9992592592596" y="159.25999999999988" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-84" value="27:errorMessage" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="799.74" y="169.25999999999988" as="sourcePoint" />
+            <mxPoint x="590" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-85" value="28:errorMessage" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="589.74" y="169.9999999999999" as="sourcePoint" />
+            <mxPoint x="319.9992592592596" y="169.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-86" value="29:errorMessage" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="349.74" y="169.9999999999999" as="sourcePoint" />
+            <mxPoint x="110" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="SzFUHrx2OmUzOLYhAMGF-46">
+          <mxGeometry x="815" y="80" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-75" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SzFUHrx2OmUzOLYhAMGF-46" source="SzFUHrx2OmUzOLYhAMGF-50" target="SzFUHrx2OmUzOLYhAMGF-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="110" as="sourcePoint" />
+            <mxPoint x="830" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-49" value="alt team != null" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="378" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-51" value="alt&lt;br&gt;teamAvailable &lt;br&gt;==true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="473" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SzFUHrx2OmUzOLYhAMGF-73" value="[then]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="548" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
